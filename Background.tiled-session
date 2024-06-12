@@ -1,0 +1,75 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "PlatformerFinal.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 4
+        },
+        "PlatformerBackground.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 363.5,
+                "y": 420.5
+            }
+        },
+        "PlatformerBackground.tmx#Tileset_Background": {
+            "scaleInDock": 1
+        },
+        "PlatformerFinal.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1097,
+                "y": 334.5
+            }
+        },
+        "PlatformerFinal.tmx#Tileset_Base": {
+            "scaleInDock": 1
+        },
+        "PlatformerFinal.tmx#Tileset_Characters": {
+            "scaleInDock": 2
+        },
+        "PlatformerFinal.tmx#Tileset_Farm": {
+            "scaleInDock": 1
+        },
+        "PlatformerFinal.tmx#Tileset_Industrial": {
+            "scaleInDock": 1
+        },
+        "PlatformerFinal.tmx#Tileset_Prompts": {
+            "scaleInDock": 1
+        }
+    },
+    "frame.defaultDuration": 1000,
+    "last.exportedFilePath": "C:/Users/ianst/Desktop/Homework/Game Dev Experience/PlatformerProject/assets",
+    "last.imagePath": "C:/Users/ianst/Desktop/Homework/Game Dev Experience/PlatformerProject/assets",
+    "map.height": 30,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 24,
+    "map.tileWidth": 24,
+    "map.width": 135,
+    "openFiles": [
+        "PlatformerBackground.tmx",
+        "PlatformerFinal.tmx"
+    ],
+    "project": "Background.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "PlatformerBackground.tmx",
+        "PlatformerFinal.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
